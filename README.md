@@ -20,4 +20,6 @@ competing activities, under a set of constraints imposed by the nature of the pr
 constraints could reflect financial, technological, marketing, organizational, or many other considerations. In
 broad terms, mathematical programming can be defined as a mathematical representation aimed at programming or planning the best possible allocation of scarce resources. When the mathematical representation uses
 linear functions exclusively, we have a linear-programming model.
-Source: MIT OCW
+
+Source: MIT OCW, Rafael Silva Pinto
+R&D and Data Manager, PhD candidate (Udemy)
