@@ -21,5 +21,7 @@ constraints could reflect financial, technological, marketing, organizational, o
 broad terms, mathematical programming can be defined as a mathematical representation aimed at programming or planning the best possible allocation of scarce resources. When the mathematical representation uses
 linear functions exclusively, we have a linear-programming model.
 
+Best approach to using this repository is to look through the code and have some understanding of your problem and which solver/optimizer best applies to your problem, then implement it using your own constraints, variables and objective function.
+
 Source: MIT OCW, Rafael Silva Pinto
 R&D and Data Manager, PhD candidate (Udemy)
